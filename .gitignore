@@ -1,0 +1,10 @@
+node_modules
+dist
+.env.prod
+.env.dev
+.env
+.vscode
+src/db/migrations
+coverage
+.sql/
+*.session.sql
